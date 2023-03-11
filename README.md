@@ -1,2 +1,13 @@
 # BirdCLEF-2023
-Identify bird calls in soundscapes
+
+## Goal of the Competition
+Birds are excellent indicators of biodiversity change since they are highly mobile and have diverse habitat requirements. Changes in species assemblage and the number of birds can thus indicate the success or failure of a restoration project. However, frequently conducting traditional observer-based bird biodiversity surveys over large areas is expensive and logistically challenging. In comparison, passive acoustic monitoring (PAM) combined with new analytical tools based on machine learning allows conservationists to sample much greater spatial scales with higher temporal resolution and explore the relationship between restoration interventions and biodiversity in depth.
+
+For this competition, you'll use your machine-learning skills to identify Eastern African bird species by sound. Specifically, you'll develop computational solutions to process continuous audio data and recognize the species by their calls. The best entries will be able to train reliable classifiers with limited training data. If successful, you'll help advance ongoing efforts to protect avian biodiversity in Africa, including those led by the Kenyan conservation organization NATURAL STATE.
+
+## Context
+NATURAL STATE is working in pilot areas around Northern Mount Kenya to test the effect of various management regimes and states of degradation on bird biodiversity in rangeland systems. By using the machine learning algorithms developed within the scope of this competition, NATURAL STATE will be able to demonstrate the efficacy of this approach in measuring the success of restoration projects and the cost-effectiveness of the method. In addition, the ability to cost-effectively monitor the impact of restoration efforts on biodiversity will allow NATURAL STATE to test and build some of the first biodiversity-focused financial mechanisms to channel much-needed investment into the restoration and protection of this landscape upon which so many people depend. These tools are necessary to scale this cost-effectively beyond the project area and achieve our vision of restoring and protecting the planet at scale.
+
+Thanks to your innovations, it will be easier for researchers and conservation practitioners to survey avian population trends accurately. As a result, they'll be able to evaluate threats and adjust their conservation actions regularly and more effectively.
+
+This competition is collaboratively organized by (alphabetic order) the Chemnitz University of Technology, Google Research, K. Lisa Yang Center for Conservation Bioacoustics at the Cornell Lab of Ornithology, LifeCLEF, NATURAL STATE, OekoFor GbR, and Xeno-canto.
